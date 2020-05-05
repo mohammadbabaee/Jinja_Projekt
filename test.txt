@@ -1,3 +1,5 @@
 this is a test! 
 
 Das ist ein Test von Git Bash Console!
+
+Ich sage OK!
