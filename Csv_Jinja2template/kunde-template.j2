@@ -1,0 +1,13 @@
+
+Kunde {{ Kundename }}
+  Beschreibung:
+  hat einen Standort in {{ location }} mit der IP-Adresse {{ ipAdresse }} und {{ status }} Vertrag
+  {% if status == "Gold" -%}
+  Der Kunde {{ Kundename }} hat 24/7 Anspruch auf Service
+  {% elif status == "Silber" -%}
+  Der Kunde {{ Kundename }} hat 5 Tage Anspruch auf Service
+  {% else -%}
+  Der Kunde {{ Kundename }} hat 3 Tage Anspruch auf Service
+  {% endif -%}
+
+ 

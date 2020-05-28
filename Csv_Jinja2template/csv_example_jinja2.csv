@@ -1,0 +1,15 @@
+Kundename;Standort;IP;Status
+Muster1;Koeln;10.10.1.1;Gold
+Muster1;Bonn;10.10.1.2;Gold
+Muster1;Duesseldorf;10.10.1.3;Gold
+Muster1;Muenchen;10.10.1.4;Gold
+Muster1;Berlin;10.10.1.5;Gold
+Muster1;Stutgart;10.10.1.6;Gold
+Muster1;Frankfurt;10.10.1.7;Gold
+Muster1;Hamburg;10.10.1.8;Gold
+Muster2;Hannover;10.20.1.1;Silber
+Muster2;Heidelberg;10.20.1.2;Silber
+Muster2;Freiburg;10.20.1.3;Silber
+Muster2;Bonn;10.20.1.4;Silber
+Muster3;Berlin;10.30.1.1;Bronze
+Muster3;Muenchen;10.30.1.2;Bronze
